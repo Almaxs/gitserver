@@ -29,3 +29,5 @@ neigiama reakcija ir reklamines žinutes tiesiog trinamos.
 
 
 6. Kokios patirties turite su MS Excel programa? 
+
+testas master

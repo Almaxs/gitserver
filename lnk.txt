@@ -28,6 +28,7 @@ neigiama reakcija ir reklamines žinutes tiesiog trinamos.
 5. Kokios penkios savybes jus geriausiai apibudina? Pagriskite. 
 
 
+<<<<<<< HEAD
 6. Kokios patirties turite su MS Excel programa
 sadasd?:wq
 :wq
@@ -36,3 +37,8 @@ sadasd?:wq
 +6+
 :wq
 
+=======
+6. Kokios patirties turite su MS Excel programa? 
+
+testas master
+>>>>>>> refs/heads/master
